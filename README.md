@@ -14,11 +14,12 @@
 ## Projetos em destaque
 ### Projeto A — *Mendel 2.0*
 Descrição: Projeto feito em equipe, com o objetivo de facilitar o ensino na area da biologia.  
-➡️ Link: [github.com/SEU_USUARIO/projeto-a](https://github.com/AlessandroSilvaS/Mendel-2.0)
+➡️ Link: [github.com/Jeferson Bryan/Mendel 2.0](https://github.com/AlessandroSilvaS/Mendel-2.0)
 
 ### Projeto B — *Mendel*
-Breve descrição + screenshot/gif:
-![demo](./assets/projeto-b.gif)
+Descrição: Projeto feito em equipe, com o objetivo de facilitar o ensino na area da biologia.  
+➡️ Link: [github.com/Jeferson Bryan/mendel](https://github.com/Matheus1415/Mendel)
+https://github.com/Matheus1415/Mendel
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=social)
