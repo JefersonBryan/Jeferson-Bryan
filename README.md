@@ -4,7 +4,7 @@
 - 🔭 Atualmente: estudando para me tornar **Desenvolvedor Júnior**.
 - 🌱 Estudando: **Python**, **JavaScript**, **React**, **Node.js**.
 - 💬 Pergunte-me sobre: projetos pessoais.
-- 📫 Como me encontrar: <jefersonbryan1307@gmail.com> • [LinkedIn](https://www.linkedin.com/in/jeferson-bryan-58265230b/>)
+- 📫 Como me encontrar: <jefersonbryan1307@gmail.com> • [LinkedIn](<https://www.linkedin.com/in/jeferson-bryan-58265230b/>)
 
 ## Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
