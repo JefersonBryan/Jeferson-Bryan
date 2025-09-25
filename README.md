@@ -1,6 +1,4 @@
-# Olá 👋, eu sou <Jeferson Bryan>!
-
-![Header](./assets/header.png)
+# Olá 👋, eu sou < Jeferson Bryan >!
 
 ## Sobre mim
 - 🔭 Atualmente: estudando para me tornar **Desenvolvedor Júnior**.
