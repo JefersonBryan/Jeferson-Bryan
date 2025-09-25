@@ -13,8 +13,8 @@
 
 ## Projetos em destaque
 ### Projeto A — *Mendel 2.0*
-Descrição curta.  
-➡️ Link: [github.com/SEU_USUARIO/projeto-a](https://github.com/SEU_USUARIO/projeto-a)
+Descrição: Projeto feito em equipe, com o objetivo de facilitar o ensino na area da biologia.  
+➡️ Link: [github.com/SEU_USUARIO/projeto-a](https://github.com/AlessandroSilvaS/Mendel-2.0)
 
 ### Projeto B — *Mendel*
 Breve descrição + screenshot/gif:
