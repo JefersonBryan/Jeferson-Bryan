@@ -19,7 +19,7 @@ Descrição: Projeto feito em equipe, com o objetivo de facilitar o ensino na ar
 ### Projeto B — *Mendel*
 Descrição: Projeto feito em equipe, com o objetivo de facilitar o ensino na area da biologia.  
 ➡️ Link: [github.com/Jeferson Bryan/mendel](https://github.com/Matheus1415/Mendel)
-https://github.com/Matheus1415/Mendel
+
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=social)
